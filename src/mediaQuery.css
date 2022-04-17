@@ -1,0 +1,52 @@
+@media (min-width:320px) and  (max-width:480px){
+    .mLoginForm{
+        width: 200px!important;
+    }
+    
+    .grid-1{
+        height: 100%!important;
+        padding:  50px 50px 50px 50px;
+    }
+
+    .Nlabel{
+        display:none;
+    }
+
+
+    .full-name{
+        font-size: 40px;
+    }
+
+    .user-details{
+        margin-top: 20px!important;
+        margin-left: 0px!important;
+    }
+
+    .profile-section-2{
+        margin-top: 10px!important;
+        padding-top: 10px!important;
+    }
+
+    .profile-section-2-1{
+        margin-top: 10px!important;
+    }
+
+    .profile-details{
+        font-size: 16px;
+    }
+
+    .edit-button-phone-block{
+        display: block;
+    }
+
+    .edit-button-phone{
+        border-radius: 100%!important;
+        z-index: 300;
+        margin-left: -60px!important;
+        margin-top: 300px!important;
+        position: fixed!important;
+        padding:14!important;
+    }
+
+
+}

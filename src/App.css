@@ -1,0 +1,61 @@
+.grid-1{
+    height: 100vh;
+    padding:  150px 100px 130px 100px;
+    z-index:2!important;
+}
+
+.Nlabel{
+    font-size: 20px;
+}
+
+
+.MuiIconButton-root{
+    border-radius: 0px!important;
+}
+
+
+.card-1:hover{
+   box-shadow: 1px 1px 8px rgb(129, 140, 163)!important;
+    background-color: rgb(241, 241, 241);
+}
+
+.page-title{
+    width: 250px;
+}
+
+.profileDp{
+    font-size: 120px;
+}
+
+.profile-title{
+    background-color: #3f51b5;
+    color: white;
+    padding: 12px;
+}
+
+.profile-details{
+    font-size: 20px;
+    font-weight: 580;
+}
+
+.email-width{
+    font-size: 14px;
+}
+
+.edit-button{
+    border-radius: 100%!important;
+    z-index: 300;
+    margin-top: -20px!important;
+    position: fixed!important;
+}
+
+.edit-button-phone-block{
+    display: none;
+}
+
+.request-title{
+    background-color: #3f51b5;
+    color: white;
+    padding: 12px;
+}
+

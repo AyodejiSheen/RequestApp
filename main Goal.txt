@@ -1,0 +1,34 @@
+State management with redux
+
+
+
+
+API class.8*****
+to make a GET request  you use fetch, i.e getting sumtin from the endpoint.
+
+fetch will return a promise.
+
+//fetch wil return a promise *then* convert it to sumtin in json or .text *then* give the content name as data 
+
+
+
+status code
+200-300 = is okay
+400-500 = error, internal server error from backend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+to POST request I.E sending details to the the endpoint
